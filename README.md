@@ -14,14 +14,14 @@
     <td align="center" width="96">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" />
+            width="48" height="48" />
     </a>
       <br>Java
     </td>
     <td align="center" width="96">
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" />
+            alt="csharp" width="48" height="48" />
     </a>
       <br>C#
     </td>
