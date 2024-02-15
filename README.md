@@ -34,64 +34,64 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="48" height="48" alt="SpringF" />
+        <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="40" height="40" alt="SpringF" />
       </a>
       <br>Spring Framework
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width="48" height="48" alt="NET" />
+        <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width="40" height="40" alt="NET" />
       </a>
       <br>.NET
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="48" height="48" alt="React" />
+        <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="40" height="40" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="48" height="48" alt="mysql" />
+        <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="40" height="40" alt="mysql" />
       </a>
       <br>MySQL
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="48" height="48" alt="Html" />
+        <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="40" height="40" alt="Html" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="48" height="48" alt="CSS" />
+        <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" height="40" alt="CSS" />
       </a>
       <br>CSS
     </td>
         <td align="center" width="96">
       <a href="#" >
-        <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="48" height="48" alt="Tailwind" />
+        <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="40" height="40" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
         </td>
         <td align="center" width="96">
       <a href="#" >
-        <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="48" height="48" alt="Maven" />
+        <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="40" height="40" alt="Maven" />
       </a>
       <br>Maven
     </td>
       </td>
         <td align="center" width="96">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" width="48" height="48" alt="Lombok" />
+        <img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" width="40" height="40" alt="Lombok" />
       </a>
       <br>Lombok
     </td>
         </td>
         <td align="center" width="96">
       <a href="#" >
-        <img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" width="48" height="48" alt="Unity" />
+        <img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" width="40" height="40" alt="Unity" />
       </a>
       <br>Unity
     </td>
