@@ -3,7 +3,7 @@
 <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbola97&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="sbola97" /></a>
 
 - 🔭 I’m currently working as a freelancer Software Engineer 👨🏻‍💻
-- 🎮 I'm interested in web development and game development
+- 🎮 I'm interested in web and game development
 - 📫 How to reach me: sebassenk1997@gmail.com
 - 💻 Connect with me on: [LinkedIn](https://www.linkedin.com/in/paul-sebasti%C3%A1n-bola%C3%B1os-hidalgo-448999285/)
 
