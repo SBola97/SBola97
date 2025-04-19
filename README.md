@@ -68,28 +68,13 @@
       </a>
       <br>CSS
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#" >
         <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="40" height="40" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
-        </td>
-        <td align="center" width="96">
-      <a href="#" >
-        <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="40" height="40" alt="Maven" />
-      </a>
-      <br>Maven
-    </td>
-      </td>
-        <td align="center" width="96">
-      <a href="#">
-        <img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" width="40" height="40" alt="Lombok" />
-      </a>
-      <br>Lombok
-    </td>
-        </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#" >
         <img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" width="40" height="40" alt="Unity" />
       </a>
